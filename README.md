@@ -5,6 +5,8 @@
 **Wholesale Analyis** is a jupyter notebook that analyzes data from a fictional organization who is tracking sales from clients and calculating revenue and profits.  The goal of the notebook is to answer questions that the organization might have about their top clients, total revenue, costs, and profit margins.
 
 ## Demo
+  
+https://github.com/dannygallardo/pandas-challenge-1/assets/158865403/a3f07cc5-5d52-4981-9f3c-ec0118589d25
 
 ## Key Findings
 - The top client in terms of order volume was Jessica Reyes (client ID 33615)
